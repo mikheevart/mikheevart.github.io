@@ -5,6 +5,12 @@
   background-color: #5e81ac;
   border-color: #5e81ac;
 }
+a.bg-warning:focus, a.bg-warning:hover, button.bg-warning:focus, button.bg-warning:hover {
+  background-color: #c6aa73 !important;
+}
+.bg-warning {
+  background-color: #ebcb8b !important;
+}
 .bg-info {
   background-color: #88c0d0 !important;
 }

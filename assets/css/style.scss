@@ -5,8 +5,17 @@
   background-color: #5e81ac;
   border-color: #5e81ac;
 }
+.bg-info {
+  background-color: #88c0d0 !important;
+}
+a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
+  background-color: #6a88a6 !important;
+}
+a.bg-info:focus, a.bg-info:hover, button.bg-info:focus, button.bg-info:hover {
+  background-color: #638d99 !important;
+}
 .text-primary {
-  color: #88c0d0 !important;
+  color: #81a1c1 !important;
 }
 .circle-image {
   width: 100%;
@@ -14,7 +23,7 @@
   border-radius: 50%;
   object-fit: cover;
   object-position: center;
-  border: 2px solid #88c0d0;
+  border: 2px solid #81a1c1;
 }
 .link-after, .nav-link::after, .navbar-brand::after, .nav-item.active::after {
   content: "";

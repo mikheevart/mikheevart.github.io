@@ -10,8 +10,24 @@
   color: #81a1c1;
   border-color: #81a1c1;
 }
+.badge-primary {
+  color: #fff;
+  background-color: #81a1c1;
+}
+.bg-success {
+  background-color: #a3be8c !important;
+}
+a.bg-success:focus, a.bg-success:hover, button.bg-success:focus, button.bg-success:hover {
+  background-color: #98b083 !important;
+}
 .border-primary {
   border-color: #81a1c1 !important;
+}
+.bg-danger {
+  background-color: #bf616a !important;
+}
+a.bg-danger:focus, a.bg-danger:hover, button.bg-danger:focus, button.bg-danger:hover {
+  background-color: #9d5158 !important;
 }
 .bg-primary {
   background-color: #81a1c1 !important;

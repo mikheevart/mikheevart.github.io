@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Web-Developer Mikheev Sergey
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Приветствую :wave:, меня зовут Сергей - я **веб-разработчик** широкого профиля, работаю с проектами разной сложности (от одностраничных сайтов до CRM систем).
+
+                      По большей части работал с Ruby on Rails, Wagtail CMS и Django!, также работал с другими популярыми CMS системами, создавал мобильные приложения под Android ОС. Имею опыт работы фрилансером, что помогло мне научиться лучше понимать разные требования заказчика под любые нестандартные задачи.
 baseurl             :           # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU

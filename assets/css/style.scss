@@ -10,4 +10,10 @@
   color: #81a1c1;
   border-color: #81a1c1;
 }
+.link-after, .nav-link::after, .navbar-brand::after, .nav-item.active::after {
+  content: "";
+  display: block;
+  height: 0.15em;
+  background: #81a1c1;
+}
 @import "portfolYOU";

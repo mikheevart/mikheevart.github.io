@@ -1,16 +1,9 @@
 ---
 title: "Парсинг веб-страниц с помощью Python в 2024 году"
-category:
- - Python
-tags:
- - Scraping
-toc: true
-toc_label: "Содержание"
-toc_icon: "file-alt"
-toc_sticky: true
-header:
-   teaser: /assets/images/python.jpg
-   og_image: /assets/images/python.jpg
+tags: [PYTHON]
+style: fill
+color: primary
+description: Интернет — огромный источник данных, если вы знаете, как их извлечь. Давайте окунемся в мир парсинга веб-страниц с помощью Python!
 ---
 
 Интернет — огромный источник данных, если вы знаете, как их извлечь. Таким образом, спрос на парсинг веб-страниц в последние годы вырос в геометрической прогрессии, и Python стал самым популярным языком программирования для этой цели.

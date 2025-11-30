@@ -5,6 +5,21 @@
   background-color: #5e81ac;
   border-color: #5e81ac;
 }
+a {
+  color: #5e81ac;
+}
+.markdown-body a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):hover {
+  color: #4f6a8c;
+}
+.markdown-body a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline)::after {
+  content: "";
+  display: block;
+  height: 0.15em;
+  margin-top: -0.15em;
+  width: 0;
+  background: #5e81ac;
+  transition: width 0.35s;
+}
 .markdown-body pre {
   background: #e5e9f0 !important;
   border: 1px solid #d8dee9 !important;

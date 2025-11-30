@@ -42,7 +42,7 @@ weight: 3
     </div>
   </div>
   <div class="form-group row">
-    <div class="offset-4 col-8">
+    <div class="col-12">
       <button name="submit" type="submit" class="btn btn-primary">Отправить сообщение</button>
     </div>
   </div>

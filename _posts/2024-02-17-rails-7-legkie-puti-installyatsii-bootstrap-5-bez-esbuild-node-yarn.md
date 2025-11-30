@@ -1,5 +1,9 @@
 ---
-title: Rails 7 - легкие пути инсталляции Bootstrap 5 без esbuild, node, yarn
+title: Rails 7 - легкие пути инсталляции Bootstrap 5
+tags: [RUBY ON RAILS, RUBY]
+style: fill
+color: danger
+description: Rails 7 - легкие пути инсталляции Bootstrap 5 без esbuild, node, yarn
 ---
 ### Первый способ
 

@@ -5,6 +5,21 @@
   background-color: #5e81ac;
   border-color: #5e81ac;
 }
+.markdown-body pre {
+  background: #e5e9f0;
+  border: 1px solid #d8dee9;
+  color: #2e3440;
+  font-family: monospace;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  padding: 1em 1.5em;
+  display: block;
+  page-break-inside: avoid;
+  overflow: auto;
+  word-wrap: break-word;
+}
 a.bg-warning:focus, a.bg-warning:hover, button.bg-warning:focus, button.bg-warning:hover {
   background-color: #c6aa73 !important;
 }

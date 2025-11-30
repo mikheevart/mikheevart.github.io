@@ -8,6 +8,11 @@
 a.bg-warning:focus, a.bg-warning:hover, button.bg-warning:focus, button.bg-warning:hover {
   background-color: #c6aa73 !important;
 }
+.markdown-body blockquote {
+  border-left: 0.25em solid #007bff;
+  color: #81a1c1;
+  padding: 0 1em;
+}
 .bg-warning {
   background-color: #ebcb8b !important;
 }
@@ -35,7 +40,7 @@ a.bg-info:focus, a.bg-info:hover, button.bg-info:focus, button.bg-info:hover {
   content: "";
   display: block;
   height: 0.15em;
-  background: #88c0d0 !important;
+  background: #81a1c1 !important;
 }
 .btn-outline-primary {
   color: #81a1c1;

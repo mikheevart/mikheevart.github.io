@@ -1,7 +1,7 @@
 ---
 title: В Rails 7.1 добавлена ​​возможность выдавать ошибки.
 tags: [RUBY ON RAILS, RUBY]
-style: fill / border (choose one only)
+style: fill
 color: danger
 description: В Rails 7.1 добавлена ​​возможность выдавать ошибки при отсутствии действий обратного вызова.
 ---

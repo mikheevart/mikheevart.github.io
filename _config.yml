@@ -66,7 +66,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+  shortname: web-devrloper-mikheev-sergey                     # Your website Shortname on disqus
 
 
 ### Analytics ###
